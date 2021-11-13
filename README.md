@@ -70,8 +70,6 @@ https://user-images.githubusercontent.com/69752829/141642924-2bd306ca-7695-4d2b-
 
 
 
-### Download detection weights and cfg file : [Yolo-detection][https://github.com/hasit73/yolo_detection] 
-
 ### Limitations:
 
 There are two primary drawbacks of this object tracking algorithm.
